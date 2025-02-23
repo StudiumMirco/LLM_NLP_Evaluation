@@ -11,6 +11,18 @@ This repository hosts the code and the data used for evaluating the linguistic a
 
 ### Structure of the Repository
 
+The repository contains the complete code to reproduce the experiment evaluating the language capabilities of large language models.
+
+    * In the CondaEnv folder, you will find the backup of the Conda environment prepared for this code.
+    * In the Benchmarks folder, there are scripts that use several metrics and datasets to calculate the results for an entire task area, such as summarization.
+    * In the Metrics folder, you will find the scripts for the individual metrics used.
+    * In the Models folder, there is the script for integrating the used models.
+    * In the dataload folder, you will find the scripts for integrating the used datasets.
+    * In the main script, you can select the models as well as the desired benchmarks/metrics. Running the main method starts the script.
+    * The Utils script contains helper methods.
+
+Apart from the code, the data folder contains datasets that were not available via the Huggingface API and were integrated manually. In the Predictions_Results_Errors folder, you will find the results of the two experiment runs along with the model predictions, error logs, and processed tables and visualizations.
+
 
 ### Models, Test Areas, and Metrics Used
 
