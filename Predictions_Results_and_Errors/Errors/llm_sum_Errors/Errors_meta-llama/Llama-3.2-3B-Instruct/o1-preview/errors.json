@@ -1,0 +1,12 @@
+[
+    {
+        "id": "26758ed3e0fecca99b6e8287857fa4bfda4bd67d",
+        "error": "Expecting value: line 1 column 1 (char 0)",
+        "output": "```json\n{\"coherence\":90,\"consistency\":85,\"grammar\":100,\"relevance\":85,\"fluency\":95,\"overall_score\":91}\n```"
+    },
+    {
+        "id": "3db08e257fdde47bea1536efba30f52e747511da",
+        "judge_name": "o1-preview",
+        "error": "Error code: 500 - {'error': {'message': 'The model produced invalid content. Consider modifying your prompt if you are seeing this error persistently.', 'type': 'model_error', 'param': None, 'code': None}}"
+    }
+]

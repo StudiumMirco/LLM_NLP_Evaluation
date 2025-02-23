@@ -1,0 +1,7 @@
+[
+    {
+        "id": "a4942dd663020ca54575471657a0af38d82897d6",
+        "judge_name": "meta-llama/Llama-3.2-3B-Instruct",
+        "error": "(ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)), '(Request ID: 83f97f5d-2584-4024-b9e8-bd5c910ce0d3)')"
+    }
+]

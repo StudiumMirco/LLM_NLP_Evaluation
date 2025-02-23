@@ -1,0 +1,6 @@
+[
+    "Model: meta-llama/Llama-3.1-70B-Instruct\n Output: {\"coherence\": 90, \"consistency\": 95, \"grammar\": 98, \"relevance\": 92, \"fluency\": 90, \"overall_score\": 93 \" \" \" \" \" \" is is is is is \" \" is is is is is is is is \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \"",
+    "Model: meta-llama/Llama-3.1-70B-Instruct\n Output: {\"coherence\": 90, \"consistency\": 95, \"grammar\": 99 \" \" \" \" \" \" \" is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is",
+    "Model: meta-llama/Llama-3.1-70B-Instruct\n Output: {\"coherence\": 90,\"consistency\": 95,\"grammar\": 95,\"relevance\": 95,\"fluency\": 95,\"fluency\": 95,\"fluency\": 95,\"fluency\": 95,\"fluency\": 95,\"fluency\": 95,\"fluency\": 95,\"fluency\": 95,\"fluency\": 95,\"fluency\": 95,\"fluency\": 95,\"fluency\": 95,\"fluency\": ",
+    "Model: meta-llama/Llama-3.1-70B-Instruct\n Output: {\"coherence\": 90, \"consistency\": 95, \"grammar\": 98, \"relevance\": 85, \"fluency\": 92, \"overall_score\": 92}\n```"
+]

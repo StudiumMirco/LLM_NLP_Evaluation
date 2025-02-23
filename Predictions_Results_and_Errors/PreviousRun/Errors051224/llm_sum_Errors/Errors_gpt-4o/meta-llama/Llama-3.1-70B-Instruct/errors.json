@@ -1,0 +1,3 @@
+[
+    "Model: meta-llama/Llama-3.1-70B-Instruct\n Output: {\"coherence\": 90, \"consistency\": 95, \"grammar\": 98, \"relevance\": 85, \"fluency\": 92, \"overall_score\": 92}\n\nNote: I assigned high scores to the summary because it accurately conveys the main topic and key points of the news article in a clear and logical order. The summary is well-structured, coherent, and free of grammatical errors. However, I deducted a few points from relevance because the summary"
+]

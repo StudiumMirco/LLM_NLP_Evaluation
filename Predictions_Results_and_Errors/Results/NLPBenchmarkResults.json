@@ -1,0 +1,92 @@
+{
+    "Machine_Translation": {
+        "gpt-4o": 50.73871177761944,
+        "o1-preview": 48.21589954870127,
+        "gemini-1.5-flash": 48.088591486033344,
+        "gemini-1.5-pro": 50.004958960341725,
+        "claude-3-5-haiku-20241022": 48.49511714808476,
+        "claude-3-5-sonnet-20241022": 50.56433869909129,
+        "meta-llama/Llama-3.2-3B-Instruct": 41.068530607302826,
+        "meta-llama/Llama-3.1-70B-Instruct": 49.74014928633741
+    },
+    "Summarization": {
+        "gpt-4o": 73.859372467586,
+        "o1-preview": 74.06817102757793,
+        "gemini-1.5-flash": 73.5963888865546,
+        "gemini-1.5-pro": 73.80514946735163,
+        "claude-3-5-haiku-20241022": 73.69869221237943,
+        "claude-3-5-sonnet-20241022": 73.893934082825,
+        "meta-llama/Llama-3.2-3B-Instruct": 73.11696993016727,
+        "meta-llama/Llama-3.1-70B-Instruct": 72.67617719540233
+    },
+    "Dialog": {
+        "gpt-4o": 83.45164431673052,
+        "o1-preview": 84.07142316999395,
+        "gemini-1.5-flash": 81.15242456896553,
+        "gemini-1.5-pro": 82.6435610989531,
+        "claude-3-5-haiku-20241022": 77.80347393267652,
+        "claude-3-5-sonnet-20241022": 84.5126352568333,
+        "meta-llama/Llama-3.2-3B-Instruct": 63.82883755248924,
+        "meta-llama/Llama-3.1-70B-Instruct": 78.06719519704433
+    },
+    "Writing": {
+        "gpt-4o": 87.96875,
+        "o1-preview": 88.09623015873015,
+        "gemini-1.5-flash": 88.0732142857143,
+        "gemini-1.5-pro": 87.34861111111111,
+        "claude-3-5-haiku-20241022": 87.8204365079365,
+        "claude-3-5-sonnet-20241022": 88.50833333333333,
+        "meta-llama/Llama-3.2-3B-Instruct": 85.696875,
+        "meta-llama/Llama-3.1-70B-Instruct": 85.96785714285714
+    },
+    "Storygeneration": {
+        "gpt-4o": 85.1875,
+        "o1-preview": 84.5975,
+        "gemini-1.5-flash": 85.4675,
+        "gemini-1.5-pro": 85.48249999999999,
+        "claude-3-5-haiku-20241022": 84.4025,
+        "claude-3-5-sonnet-20241022": 85.405,
+        "meta-llama/Llama-3.2-3B-Instruct": 81.1525,
+        "meta-llama/Llama-3.1-70B-Instruct": 82.6525
+    },
+    "Question_Answering": {
+        "gpt-4o": 54.51484340614953,
+        "o1-preview": 54.29312696515469,
+        "gemini-1.5-flash": 38.4010275867828,
+        "gemini-1.5-pro": 42.56931156187332,
+        "claude-3-5-haiku-20241022": 51.7584398333657,
+        "claude-3-5-sonnet-20241022": 54.44411719506418,
+        "meta-llama/Llama-3.2-3B-Instruct": 44.68290679038735,
+        "meta-llama/Llama-3.1-70B-Instruct": 53.848669309635305
+    },
+    "Question_Generation": {
+        "gpt-4o": 38.13741872824228,
+        "o1-preview": 42.62486432050803,
+        "gemini-1.5-flash": 31.854349403899274,
+        "gemini-1.5-pro": 32.35969332859005,
+        "claude-3-5-haiku-20241022": 26.526841387881284,
+        "claude-3-5-sonnet-20241022": 47.29481939171846,
+        "meta-llama/Llama-3.2-3B-Instruct": 22.356359133011033,
+        "meta-llama/Llama-3.1-70B-Instruct": 24.999894900479852
+    },
+    "NLU": {
+        "gpt-4o": 81.76867870390424,
+        "o1-preview": 85.1556530157068,
+        "gemini-1.5-flash": 76.66754175939283,
+        "gemini-1.5-pro": 81.22934503591236,
+        "claude-3-5-haiku-20241022": 73.56895203952851,
+        "claude-3-5-sonnet-20241022": 81.63730023050543,
+        "meta-llama/Llama-3.2-3B-Instruct": 43.082392072413,
+        "meta-llama/Llama-3.1-70B-Instruct": 78.0745291424196
+    },
+    "Averaged_Scores": {
+        "gpt-4o": 68.332486358566,
+        "o1-preview": 69.33032087071226,
+        "gemini-1.5-flash": 63.79543558393046,
+        "gemini-1.5-pro": 66.14912240407442,
+        "claude-3-5-haiku-20241022": 63.359600603502635,
+        "claude-3-5-sonnet-20241022": 69.31427506828064,
+        "meta-llama/Llama-3.2-3B-Instruct": 49.87939983378995,
+        "meta-llama/Llama-3.1-70B-Instruct": 64.76060011739239
+    }
+}

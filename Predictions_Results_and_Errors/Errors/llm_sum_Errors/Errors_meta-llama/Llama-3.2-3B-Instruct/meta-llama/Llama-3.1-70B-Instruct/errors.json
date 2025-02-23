@@ -1,0 +1,27 @@
+[
+    {
+        "id": "d093aa07380f75e63265793fcaa171772a6f4616",
+        "error": "Expecting ',' delimiter: line 2 column 1 (char 50)",
+        "output": "{\"coherence\": 90, \"consistency\": 95, \"grammar\": 3\n{\n{\n{\n{\n{\n{\n2assistant\n\nThe article:The article:The article"
+    },
+    {
+        "id": "10f9d53382cb52d77c1090e9ebf062bf8cb64f59",
+        "error": "Expecting value: line 1 column 101 (char 100)",
+        "output": "{\"coherence\": 90, \"consistency\": 95, \"grammar\": 98, \"relevance\": 92, \"fluency\": 90, \"overall_score\":-----based on.\n\n{\"assistantassistantassistant-assistantassistantassistant.\n\nassistantassistant.\n\n\n\nassistant\n\nassistantassistantassistantship\n\nassistantassistant\n\nassistant\n\nassistant\n\nassistant\n\nassistant\n\nassistant\n\nassistant\n\nassistant\n\nassistant\n\nassistant--assistant of of the.\n\nassistant.\n\n\n\n\n\nassistant"
+    },
+    {
+        "id": "1aa5251dfaa1d93f782d21b2950144917dbec27b",
+        "error": "Unterminated string starting at: line 1 column 47 (char 46)",
+        "output": "{\"coherence\":90,\"consistency\":95,\"grammar\":95,\"."
+    },
+    {
+        "id": "08ba69af952088f99d307f76f6e566b4cb9ecf7f",
+        "error": "Expecting ',' delimiter: line 1 column 85 (char 84)",
+        "output": "{\"coherence\": 80, \"consistency\": 85, \"grammar\": 90, \"relevance\": 70, \"fluency\":  \"{\"coherence\":{\""
+    },
+    {
+        "id": "79941d61c117f204e1069ca0db952a664898e82c",
+        "error": "Expecting value: line 1 column 80 (char 79)",
+        "output": "{\"coherence\": 90, \"consistency\": 95, \"grammar\": 98, \"relevance\": 90, \"fluency\":"
+    }
+]

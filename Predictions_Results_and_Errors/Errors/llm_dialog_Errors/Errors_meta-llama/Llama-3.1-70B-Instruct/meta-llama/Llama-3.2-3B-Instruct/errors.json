@@ -1,0 +1,7 @@
+[
+    {
+        "id": 1,
+        "model_name": "meta-llama/Llama-3.2-3B-Instruct",
+        "error": "(ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)), '(Request ID: b7bc2de1-f302-4d1f-81e1-529ece5cd9b0)')"
+    }
+]

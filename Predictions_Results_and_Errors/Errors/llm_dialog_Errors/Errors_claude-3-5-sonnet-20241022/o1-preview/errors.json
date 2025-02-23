@@ -1,0 +1,7 @@
+[
+    {
+        "id": 3,
+        "model_name": "o1-preview",
+        "output": "```json\n{\"appropriateness\":80,\"coherence\":80,\"content\":90,\"grammar\":90,\"relevance\":90,\"overall_score\":86}\n```"
+    }
+]

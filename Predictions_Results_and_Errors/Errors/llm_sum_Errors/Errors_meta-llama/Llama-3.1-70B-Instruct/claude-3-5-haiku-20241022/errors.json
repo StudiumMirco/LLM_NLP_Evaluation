@@ -1,0 +1,37 @@
+[
+    {
+        "id": "d69e536c3406921639c7f99d567a092b16106089",
+        "error": "Extra data: line 3 column 1 (char 106)",
+        "output": "{\"coherence\": 25, \"consistency\": 30, \"grammar\": 40, \"relevance\": 20, \"fluency\": 35, \"overall_score\": 30}\n\nThe evaluation is low because:\n1. The assistant's response appears to be a fragmented and nonsensical text, not a coherent summary\n2. The text does not capture the key points about Tropical Cyclone Pam's impact on Vanuatu"
+    },
+    {
+        "id": "5062f2cdce9c69e9f71253f4828fd4eb02729416",
+        "error": "Extra data: line 3 column 1 (char 93)",
+        "output": "{\"coherence\":10,\"consistency\":15,\"grammar\":5,\"relevance\":20,\"fluency\":5,\"overall_score\":11}\n\nThe evaluation is low due to several critical issues:\n1. The summary is almost entirely nonsensical, with random repetitions of \"not\", \"and\", \"but\"\n2. It completely fails to capture the key points of the original article about nuclear negotiations with Iran\n3. The text is grammatically incoherent an"
+    },
+    {
+        "id": "ac7a70285370c1e840de74deadf7f1bd372dfeaa",
+        "error": "Extra data: line 3 column 1 (char 106)",
+        "output": "{\"coherence\": 65, \"consistency\": 70, \"grammar\": 85, \"relevance\": 60, \"fluency\": 75, \"overall_score\": 71}\n\nReasoning:\n- Coherence (65): The summary captures the core theme of representation and controversy, but misses nuanced discussions about racial stereotyping and theatrical adaptation.\n- Consistency (70): The summary maintains a consistent tone and focuses on the play's representation issues"
+    },
+    {
+        "id": "899ef6ce707b5007e9ff6c3f2b66b6acca8bc862",
+        "error": "Extra data: line 3 column 1 (char 106)",
+        "output": "{\"coherence\": 65, \"consistency\": 70, \"grammar\": 80, \"relevance\": 60, \"fluency\": 75, \"overall_score\": 70}\n\nReasoning for the scores:\n- Coherence (65): The summary captures the core event of Putin's public appearance but lacks depth in explaining the context of his absence and surrounding rumors.\n- Consistency (70): The summary maintains the main narrative of Putin's reappear"
+    },
+    {
+        "id": "1301c5ddee50bcb7c7e41f17abc05799555d2b56",
+        "error": "Extra data: line 3 column 1 (char 106)",
+        "output": "{\"coherence\": 25, \"consistency\": 20, \"grammar\": 30, \"relevance\": 15, \"fluency\": 20, \"overall_score\": 22}\n\nThe summary provided by the AI assistant is extremely poor and does not capture the essence of the original article. The key issues are:\n\n1. Relevance: The summary fails to capture the main points about Putin's disappearance, social media speculation, and the broader implications for Russian"
+    },
+    {
+        "id": "982f05b056d5aa93d05530a1d435b468687f5e03",
+        "error": "Extra data: line 3 column 1 (char 106)",
+        "output": "{\"coherence\": 65, \"consistency\": 70, \"grammar\": 85, \"relevance\": 60, \"fluency\": 75, \"overall_score\": 71}\n\nThe evaluation is based on the following observations:\n- Coherence (65): The summary captures some key points about Schumer's potential leadership, but lacks the depth and nuance of the original article.\n- Consistency (70): The summary provides a basic overview of the"
+    },
+    {
+        "id": "f7c1af4e680f7475a8da0f99e7fe75724f441a0d",
+        "error": "Extra data: line 3 column 1 (char 106)",
+        "output": "{\"coherence\": 25, \"consistency\": 30, \"grammar\": 40, \"relevance\": 20, \"fluency\": 35, \"overall_score\": 30}\n\nThe evaluation is low because:\n1. Coherence is very poor - the summary appears to be a jumbled, nonsensical text with repeated letters and fragments\n2. Consistency is low as the text does not reflect the actual content of the article\n3. Grammar is"
+    }
+]

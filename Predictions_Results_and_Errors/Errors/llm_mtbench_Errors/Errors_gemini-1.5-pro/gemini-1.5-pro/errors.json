@@ -1,0 +1,14 @@
+[
+    {
+        "question_id": 81,
+        "model": "gemini-1.5-pro",
+        "error": "Expecting value: line 1 column 1 (char 0)",
+        "output": "```json\n{\"coherence\": 95, \"style\": 90, \"content\": 92, \"grammar\": 97, \"relevance\": 98, \"fluency\": 95, \"overall_score\": 94}\n```\n"
+    },
+    {
+        "question_id": 87,
+        "model": "gemini-1.5-pro",
+        "error": "Expecting value: line 1 column 1 (char 0)",
+        "output": "```json\n{\"coherence\": 85, \"style\": 75, \"content\": 80, \"grammar\": 95, \"relevance\": 90, \"fluency\": 80, \"overall_score\": 84}\n```\n"
+    }
+]

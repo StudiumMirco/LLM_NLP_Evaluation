@@ -1,0 +1,20 @@
+[
+    {
+        "question_id": 81,
+        "model": "gemini-1.5-pro",
+        "error": "Expecting value: line 1 column 1 (char 0)",
+        "output": "```json\n{\"coherence\": 95, \"style\": 90, \"content\": 92, \"grammar\": 95, \"relevance\": 95, \"fluency\": 92, \"overall_score\": 93}\n```\n"
+    },
+    {
+        "question_id": 87,
+        "model": "gemini-1.5-pro",
+        "error": "Expecting value: line 1 column 1 (char 0)",
+        "output": "```json\n{\"coherence\": 70, \"style\": 60, \"content\": 75, \"grammar\": 90, \"relevance\": 70, \"fluency\": 65, \"overall_score\": 71}\n```\n"
+    },
+    {
+        "question_id": 89,
+        "model": "gemini-1.5-pro",
+        "error": "Expecting value: line 1 column 1 (char 0)",
+        "output": "```json\n{\"coherence\": 95, \"style\": 90, \"content\": 92, \"grammar\": 95, \"relevance\": 95, \"fluency\": 95, \"overall_score\": 93}\n```\n"
+    }
+]

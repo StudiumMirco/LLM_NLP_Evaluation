@@ -1,0 +1,30 @@
+{
+    "gpt-4o": {
+        "exact_match": 72.9,
+        "f1": 36.11647243388144
+    },
+    "o1-preview": {
+        "exact_match": 68.33667334669339,
+        "f1": 39.75099658595391
+    },
+    "gemini-1.5-flash": {
+        "exact_match": 35.0,
+        "f1": 42.11541005296073
+    },
+    "gemini-1.5-pro": {
+        "exact_match": 40.1,
+        "f1": 45.17574730675318
+    },
+    "claude-3-5-sonnet-20241022": {
+        "exact_match": 67.30190571715146,
+        "f1": 41.64066275115135
+    },
+    "meta-llama/Llama-3.2-3B-Instruct": {
+        "exact_match": 52.3,
+        "f1": 37.06581358077471
+    },
+    "meta-llama/Llama-3.1-70B-Instruct": {
+        "exact_match": 65.2,
+        "f1": 42.676888348045
+    }
+}

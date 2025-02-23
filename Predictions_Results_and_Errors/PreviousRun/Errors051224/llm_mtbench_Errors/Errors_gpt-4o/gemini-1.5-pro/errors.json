@@ -1,0 +1,4 @@
+[
+    "Model: gemini-1.5-pro\n Output: ```json\n{\"coherence\": 95, \"style\": 90, \"content\": 92, \"grammar\": 97, \"relevance\": 98, \"fluency\": 95, \"overall_score\": 94}\n```\n",
+    "Model: gemini-1.5-pro\n Output: ```json\n{\"coherence\": 95, \"style\": 85, \"content\": 90, \"grammar\": 95, \"relevance\": 100, \"fluency\": 90, \"overall_score\": 92}\n```\n"
+]

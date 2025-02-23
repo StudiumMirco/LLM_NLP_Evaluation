@@ -1,0 +1,23 @@
+{
+    "gpt-4o": {
+        "accuracy": 0.7409733124018838
+    },
+    "o1-preview": {
+        "accuracy": 0.7791798107255521
+    },
+    "gemini-1.5-flash": {
+        "accuracy": 0.6828885400313972
+    },
+    "gemini-1.5-pro": {
+        "accuracy": 0.6985871271585558
+    },
+    "claude-3-5-sonnet-20241022": {
+        "accuracy": 0.7751572327044025
+    },
+    "meta-llama/Llama-3.2-3B-Instruct": {
+        "accuracy": 0.5321821036106751
+    },
+    "meta-llama/Llama-3.1-70B-Instruct": {
+        "accuracy": 0.706436420722135
+    }
+}

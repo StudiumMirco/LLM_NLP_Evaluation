@@ -1,0 +1,130 @@
+{	
+     "gpt-4o": {
+        "Rouge": {
+            "rouge1": 0.3454241913604377,
+            "rouge2": 0.13366655043845505,
+            "rougeL": 0.30384985005568266,
+            "rougeLsum": 0.30405290640480664
+        },
+        "QG-Metrik": {
+            "accuracy": 0.512
+        },
+        "Final_scores": {
+            "Average_Rouge": 27.174837456484553,
+            "QG_metric_norm": 51.2,
+            "Overall_Score": 51.2
+        }
+    },
+    "o1-preview": {
+        "Rouge": {
+            "rouge1": 0.306880837394346,
+            "rouge2": 0.11672547668590086,
+            "rougeL": 0.26479907084227955,
+            "rougeLsum": 0.2655837607181159
+        },
+        "QG-Metrik": {
+            "accuracy": 0.752
+        },
+        "Final_scores": {
+            "Average_Rouge": 23.84972864101606,
+            "QG_metric_norm": 75.2,
+            "Overall_Score": 75.2
+        }
+    },
+    "gemini-1.5-flash": {
+        "Rouge": {
+            "rouge1": 0.28199263285842213,
+            "rouge2": 0.0922223456734592,
+            "rougeL": 0.24310783273791883,
+            "rougeLsum": 0.243025141042142
+        },
+        "QG-Metrik": {
+            "accuracy": 0.444
+        },
+        "Final_scores": {
+            "Average_Rouge": 21.508698807798552,
+            "QG_metric_norm": 44.4,
+            "Overall_Score": 44.4
+        }
+    },
+    "gemini-1.5-pro": {
+        "Rouge": {
+            "rouge1": 0.2949278960656161,
+            "rouge2": 0.09974020053635944,
+            "rougeL": 0.25707419756548766,
+            "rougeLsum": 0.25703317211974047
+        },
+        "QG-Metrik": {
+            "accuracy": 0.456
+        },
+        "Final_scores": {
+            "Average_Rouge": 22.71938665718009,
+            "QG_metric_norm": 45.6,
+            "Overall_Score": 45.6
+        }
+    },
+    "claude-3-5-haiku-20241022": {
+        "Rouge": {
+            "rouge1": 0.3141804998643957,
+            "rouge2": 0.10921773798457923,
+            "rougeL": 0.2774806836938485,
+            "rougeLsum": 0.2772683894876794
+        },
+        "QG-Metrik": {
+            "accuracy": 0.308
+        },
+        "Final_scores": {
+            "Average_Rouge": 24.453682775762573,
+            "QG_metric_norm": 30.8,
+            "Overall_Score": 30.8
+        }
+    },
+    "claude-3-5-sonnet-20241022": {
+        "Rouge": {
+            "rouge1": 0.31293458474437535,
+            "rouge2": 0.10689329104996054,
+            "rougeL": 0.2736701438065614,
+            "rougeLsum": 0.2740875317365802
+        },
+        "QG-Metrik": {
+            "accuracy": 0.748
+        },
+        "Final_scores": {
+            "Average_Rouge": 24.189638783436937,
+            "QG_metric_norm": 74.8,
+            "Overall_Score": 74.8
+        }
+    },
+    "meta-llama/Llama-3.2-3B-Instruct": {
+        "Rouge": {
+            "rouge1": 0.29661498988061846,
+            "rouge2": 0.08858067548612486,
+            "rougeL": 0.2578649546789791,
+            "rougeLsum": 0.25744811059516004
+        },
+        "QG-Metrik": {
+            "accuracy": 0.236
+        },
+        "Final_scores": {
+            "Average_Rouge": 22.512718266022063,
+            "QG_metric_norm": 23.6,
+            "Overall_Score": 23.6
+        }
+    },
+    "meta-llama/Llama-3.1-70B-Instruct": {
+        "Rouge": {
+            "rouge1": 0.3037556650532981,
+            "rouge2": 0.09811652121665174,
+            "rougeL": 0.26307924408370587,
+            "rougeLsum": 0.26304016168473265
+        },
+        "QG-Metrik": {
+            "accuracy": 0.298
+        },
+        "Final_scores": {
+            "Average_Rouge": 23.199789800959707,
+            "QG_metric_norm": 29.8,
+            "Overall_Score": 29.8
+        }
+    }
+}

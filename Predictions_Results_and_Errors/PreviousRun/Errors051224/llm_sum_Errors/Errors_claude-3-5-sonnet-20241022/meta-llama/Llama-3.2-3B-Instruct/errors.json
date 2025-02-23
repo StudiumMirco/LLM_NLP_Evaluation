@@ -1,0 +1,3 @@
+[
+    "Model: meta-llama/Llama-3.2-3B-Instruct\n Output: {\"properties\": {\"coherence\": 85, \"consistency\": 90, \"grammar\": 92, \"relevance\": 80, \"fluency\": 88, \"overall_score\": 87}, \"required\": [\"coherence\", \"consistency\", \"grammar\", \"relevance\", \"fluency\", \"overall_score\"]}\""
+]

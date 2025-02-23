@@ -1,0 +1,26 @@
+{
+    "gpt-4o": {
+        "accuracy": 1.0
+    },
+    "o1-preview": {
+        "accuracy": 0.9787234042553191
+    },
+    "gemini-1.5-flash": {
+        "accuracy": 0.9696969696969697
+    },
+    "gemini-1.5-pro": {
+        "accuracy": 0.98989898989899
+    },
+    "claude-3-5-haiku-20241022": {
+        "accuracy": 0.9797979797979798
+    },
+    "claude-3-5-sonnet-20241022": {
+        "accuracy": 0.98989898989899
+    },
+    "meta-llama/Llama-3.2-3B-Instruct": {
+        "accuracy": 0.7373737373737373
+    },
+    "meta-llama/Llama-3.1-70B-Instruct": {
+        "accuracy": 0.9797979797979798
+    }
+}

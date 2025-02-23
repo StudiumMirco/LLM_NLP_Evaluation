@@ -1,0 +1,23 @@
+{
+    "gpt-4o": {
+        "matthews_correlation": 0.6814339584894189
+    },
+    "o1-preview": {
+        "matthews_correlation": 0.7774351373284777
+    },
+    "gemini-1.5-flash": {
+        "matthews_correlation": 0.643548024412327
+    },
+    "gemini-1.5-pro": {
+        "matthews_correlation": 0.6547459610517392
+    },
+    "claude-3-5-sonnet-20241022": {
+        "matthews_correlation": 0.7233794413624555
+    },
+    "meta-llama/Llama-3.2-3B-Instruct": {
+        "matthews_correlation": -0.03561523164330001
+    },
+    "meta-llama/Llama-3.1-70B-Instruct": {
+        "matthews_correlation": 0.6604232015773607
+    }
+}
