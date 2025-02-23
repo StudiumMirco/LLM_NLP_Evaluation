@@ -51,6 +51,12 @@ The models were evaluated in the following areas of Natural Language Processing 
 * Question Generation: Accuracy-based QG-Metric
 
 ### Overall Results
+The following diagram shows the overall results of the experiment. More detailed results can be found in the Results folder.
+
+![Diagramm](Predictions_Results_and_Errors/Results/Results.PNG)
+
+MT: Machine Translation; Sum: Summarization; Story: Story Generation; QA: Question Answering; QG: Question Generation; NLU: Natural Language Understanding; NLP: Natural Language Processing ( Overall Score)
+
 
 
 ### How to use
