@@ -52,6 +52,7 @@ The models were evaluated in the following areas of Natural Language Processing 
 
 ### Overall Results
 The following diagram shows the overall results of the experiment. More detailed results can be found in the Results folder.
+It is important to note that results from different test areas are not directly comparable due to the different metrics used.
 
 ![Diagramm](Predictions_Results_and_Errors/Results/Results.PNG)
 
@@ -60,14 +61,19 @@ MT: Machine Translation; Sum: Summarization; Story: Story Generation; QA: Questi
 
 
 ### How to use
-conda Umgebung einrichten
 
-Api keys einsetzen
+To use the code and reproduce the experiment, the following steps are necessary:
 
-Auswahl Modelle und Prüfbereiche in Main
+1.  Set up the Conda environment from CondaEnv.
+2.  Configure API keys in models.py for the different model types. With the current model selection, an OpenAI API key, a Google API key, an Anthropic API key, and a HuggingFace API key are required.
+3.  Select the desired models and test areas in the main script.
 
-mögliches erweitern:
-Datensätze, Metriken, Modelle etc.
+
+To extend the experiment, all models available through the respective APIs from OpenAI, Google, and Anthropic can be integrated into the main method using the existing methods. Additionally, many more models can be incorporated via the HuggingFace API. Furthermore, the models script can be expanded with additional model integrations.
+
+In the dataload scripts, additional datasets can be added easily by creating them as a class in dataset.py and then incorporating them into dataload.py.
+
+New metrics and benchmarks can be added as separate Python scripts in the Benchmarks and Metrics folders.
 
 
 
