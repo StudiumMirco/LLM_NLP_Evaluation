@@ -13,19 +13,42 @@ This repository hosts the code and the data used for evaluating the linguistic a
 
 The repository contains the complete code to reproduce the experiment evaluating the language capabilities of large language models.
 
-    * In the CondaEnv folder, you will find the backup of the Conda environment prepared for this code.
-    * In the Benchmarks folder, there are scripts that use several metrics and datasets to calculate the results for an entire task area, such as summarization.
-    * In the Metrics folder, you will find the scripts for the individual metrics used.
-    * In the Models folder, there is the script for integrating the used models.
-    * In the dataload folder, you will find the scripts for integrating the used datasets.
-    * In the main script, you can select the models as well as the desired benchmarks/metrics. Running the main method starts the script.
-    * The Utils script contains helper methods.
+* In the CondaEnv folder, you will find the backup of the Conda environment prepared for this code.
+* In the Benchmarks folder, there are scripts that use several metrics and datasets to calculate the results for an entire task area, such as summarization.
+* In the Metrics folder, you will find the scripts for the individual metrics used.
+* In the Models folder, there is the script for integrating the used models.
+* In the dataload folder, you will find the scripts for integrating the used datasets.
+* In the main script, you can select the models as well as the desired benchmarks/metrics. Running the main method starts the script.
+* The Utils script contains helper methods.
 
 Apart from the code, the data folder contains datasets that were not available via the Huggingface API and were integrated manually. In the Predictions_Results_Errors folder, you will find the results of the two experiment runs along with the model predictions, error logs, and processed tables and visualizations.
 
 
 ### Models, Test Areas, and Metrics Used
 
+#### Models
+In the experiment, the following models were tested for their language capabilities:
+
+* GPT-4o (OpenAI)
+* o1 (OpenAI)
+* Gemini 1.5 Flash (Google)
+* Gemini 1.5 Pro (Google)
+* Claude 3.5 Haiku (Anthropic)
+* Claude 3.5 Sonnet (Anthrophic)
+* LLama 3.2 3B (Meta)
+* LLama 3.1 70B (Meta)
+
+#### Test Areas, Metrics & Benchmarks
+The models were evaluated in the following areas of Natural Language Processing with the following Metrics and Benchmarks:
+
+* Natural Language Understanding: SuperGLUE-Benchmark
+* Machine Translation: BLEU, METEOR, BLEURT
+* Summarization: ROUGE, MoverScore, LLM-as-a-Judge
+* Dialog: LLM-as-a-Judge
+* Writing: LLM-as-a-Judge
+* Story: LLM-as-a-Judge
+* Question Answering: Accuracy, F1-Score
+* Question Generation: Accuracy-based QG-Metric
 
 ### Overall Results
 
